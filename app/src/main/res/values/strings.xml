@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">AIR AI</string>
+    <string name="app_tagline">Tamil &amp; English AI Assistant by AIR</string>
+    <string name="nav_chat">Chat</string>
+    <string name="nav_topics">Explore</string>
+    <string name="nav_history">Saved</string>
+    <string name="nav_settings">Settings</string>
+    <string name="welcome_title">Vanakkam! I\'m AIR AI</string>
+    <string name="welcome_subtitle">Your intelligent, friendly assistant built by AIR. How can I assist you today?</string>
+    <string name="input_placeholder">Ask in தமிழ் or English…</string>
+    <string name="category_coding">Coding</string>
+    <string name="category_learning">Learning</string>
+    <string name="category_brainstorming">Brainstorming</string>
+    <string name="category_creative">Creative</string>
+</resources>

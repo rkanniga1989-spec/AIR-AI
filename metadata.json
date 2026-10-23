@@ -1,0 +1,6 @@
+{
+  "name": "AIR AI",
+  "description": "An intelligent, friendly, and helpful AI assistant built by AIR. Communicates fluently in Tamil and English for coding, learning, brainstorming, and creative tasks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
